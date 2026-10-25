@@ -33,12 +33,14 @@ A through-hole analog headphone amplifier with  adjustable high-pass and low-pas
 ## Bill of materials
 | Item | Qty | Supplier | Cost/item | Total Cost | link |
 | --- | --- | --- | --- | --- | --- |
-| LM3915N(XBLW) | 2 | LCSC | $ 0.52 | $ 1.04 | https://www.lcsc.com/product-detail/C55109574.html |
-| NE5532P | 10 | LCSC | $ 0.35 | $ 3.50 | https://www.lcsc.com/product-detail/C5326.html |
-| Rectangular leds | 60 | LCSC |$ 0.03 | $ 1.80 | https://www.lcsc.com/product-detail/C5440571.html?s_z=n_q_t_led |
-| Hong Cheng HC-DC-005-1.6-03A | 5 | LCSC | $ 0.11 | $ 0.55 | https://www.lcsc.com/product-detail/C55122129.html |
-| SHOU HAN PJ-313 5JCJ | 5 | LCSC |$ 0.11 | $ 0.55 | https://www.lcsc.com/product-detail/C668607.html |
-| RK16312101A2 | 2 | LCSC | $  2.96 | $ 5.92 | https://www.lcsc.com/product-detail/C470593.html |
+| LM3915N(XBLW) | 2 | LCSC | $0.52 | $1.04 | https://www.lcsc.com/product-detail/C55109574.html |
+| NE5532P | 10 | LCSC | $0.35 | $3.50 | https://www.lcsc.com/product-detail/C5326.html |
+| Rectangular leds | 60 | LCSC |$0.03 | $1.80 | https://www.lcsc.com/product-detail/C5440571.html?s_z=n_q_t_led |
+| Hong Cheng HC-DC-005-1.6-03A | 5 | LCSC | $0.11 | $0.55 | https://www.lcsc.com/product-detail/C55122129.html |
+| SHOU HAN PJ-313 5JCJ | 5 | LCSC |$0.11 | $0.55 | https://www.lcsc.com/product-detail/C668607.html |
+| RK16312101A2 | 2 | LCSC | $2.96 | $5.92 | https://www.lcsc.com/product-detail/C470593.html |
+| Resistors |  | LCSC | | $2.5 | |
+| Capacitors|  | LCSC | | $2.5 | |
 | Estimated total shipping | 1 |  | $ 11.87 |
 
 The project uses a few additional parts that I had a lying around at home and are so not includes in this BOM
