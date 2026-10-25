@@ -1,6 +1,8 @@
 # Analog-Audio-Amp
 ### A low cost Audio Amplifier with input amplifier, bandpass filter & analog display
  A through-hole analog headphone amplifier built on a test board (no PCB). It has adjustable high-pass and low-pass filters, a volume knob, a stereo/mono switch, and a fully analog 10-segment LED level meter for each channel. Designed and simulated in Fusion (schematic and electronics), with SPICE models for simulation.
+ <img width="915" height="568" alt="AMP Render 1" src="https://github.com/user-attachments/assets/0053a674-355c-4dc8-893a-60895fbf5ecb" />
+
 
 ## What is this?
 
